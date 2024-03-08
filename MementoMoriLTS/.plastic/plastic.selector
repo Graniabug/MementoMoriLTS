@@ -1,0 +1,3 @@
+rep "MementoMoriLTS@MementoMori@cloud"
+  path "/"
+    smartbranch "/main"
